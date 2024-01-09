@@ -37,8 +37,8 @@
 
 <p>
 <div align="center">
-  <img src="https://img.shields.io/badge/Unreal%20Engine-31A8FF.svg?style=for-the-badge&logo=Unreal%20Engine&logoColor=white">
-  <img src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white">
+  <img src="https://img.shields.io/badge/Unreal%20Engine-000000.svg?style=for-the-badge&logo=Unreal%20Engine&logoColor=white">
+  <img src="https://img.shields.io/badge/Unity-FFFFFF.svg?style=for-the-badge&logo=Unity&logoColor=black">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
   <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white">
   <img src="https://img.shields.io/badge/Jira-2684FF.svg?style=for-the-badge&logo=Jira&logoColor=white">
