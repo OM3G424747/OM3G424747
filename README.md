@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/C++-3670A0?style=for-the-badge&logo=Cpp&logoColor=ffdd54">
   <img src="https://img.shields.io/badge/C%20Sharp-000000.svg?style=for-the-badge&logo=Csharp&logoColor=white">
   <img src="https://img.shields.io/badge/Deep%20Learning-000000.svg?style=for-the-badge&logo=nvidia&logoColor=07FF17">
-  <img src="https://img.shields.io/badge/LÖVE%202D-F26624.svg?style=for-the-badge&logo=love2d&logoColor=white">
+  <img src="https://img.shields.io/badge/LÖVE%202D-FF00BF.svg?style=for-the-badge&logo=love2d&logoColor=white">
   <img src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white">
 </div>
 </p>
