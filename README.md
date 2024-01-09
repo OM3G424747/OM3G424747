@@ -41,7 +41,7 @@
   <img src="https://img.shields.io/badge/Pycharm-5C2D91.svg?style=for-the-badge&logo=pycharm&logoColor=white">
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
   <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
-  <img src="https://img.shields.io/badge/GameMaker%20Studio-%23ffffff.svg?style=for-the-badge&logo=GameMaker%20Studio&logoColor=white">
+  <img src="https://img.shields.io/badge/GameMaker%20Studio-000000.svg?style=for-the-badge&logo=gamemaker&logoColor=white">
 </div>
 </p>
 
