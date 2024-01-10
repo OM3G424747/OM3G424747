@@ -62,4 +62,5 @@
     <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=om3g424747&theme=radical&bg_color=282828&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
 </p>
 
+<p>Profile Views Since 9th of Jan 2024:</p>
 <p align="center"><img src="https://profile-counter.glitch.me/{om3g424747}/count.svg"></p>
