@@ -16,7 +16,7 @@
 <p>
 <div align="center">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=ffdd54">
-  <img src="https://img.shields.io/badge/C%20Sharp-512BD4.svg?style=for-the-badge&logo=csharp&logoColor=white">
+  <img src="https://img.shields.io/badge/C%20%23-512BD4.svg?style=for-the-badge&logo=csharp&logoColor=white">
   <img src="https://img.shields.io/badge/Deep%20Learning-000000.svg?style=for-the-badge&logo=nvidia&logoColor=07FF17">
   <img src="https://img.shields.io/badge/LÖVE%202D-FF00BF.svg?style=for-the-badge&logo=love2d&logoColor=white">
   <img src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white">
